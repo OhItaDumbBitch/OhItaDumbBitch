@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OhItaDumbBitch
-- 👀 I’m interested in reverse engineering, information gathering, with some useful hacking techiniques
+- 👀 I’m interested in reverse engineering, information gathering, and creating ai models
 - 🌱 I’m currently learning about it all 
 - 💞️ I’m looking to collaborate on various different topics
 - 📫 How to reach me is sometimes hard
